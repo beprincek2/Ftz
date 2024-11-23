@@ -2,7 +2,7 @@
 
 **Fitzman** is a simple clinic website designed using **HTML**, **CSS**, and **JavaScript**. The website showcases information about the clinic, including services, doctors, and contact details, while providing an engaging user experience.
 
-##Demo
+## Demo
 
 https://fitzmann.com/
 
