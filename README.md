@@ -10,7 +10,7 @@ https://fitzmann.com/
 
 - **Responsive Design**: Optimized for mobile, tablet, and desktop screens.
 - **Interactive User Interface**: Smooth animations and transitions.
-- **Informative Sections**: Includes `About Us`, `Services`, `Doctors`, and `Contact Us` sections.
+- **Informative Sections**: Includes `About Us`, `Services`, `Team`, and `Contact Us` sections.
 - **Contact Form**: Allows users to submit inquiries.
 - **Clean and Modern Design**: Professional aesthetics for a medical website.
 
